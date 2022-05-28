@@ -13,6 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 你好，我是科皮子菊😄
+
+- 🌱 CSDN博客地址：<a href="https://piqiandong.blog.csdn.net//">AIAS编程有道</a>
+- 👯 微信公众号：AIAS编程有道
+- 📫 知乎：[皮乾东](https://www.zhihu.com/people/piqiandong)
+- 🔭 Bilibili： [科皮子菊](https://space.bilibili.com/165345450)
+- 🤔 目前从事于自然语言处理相关工作，探索知识图谱，搜索，排序，相关相关技术，喜欢编程，探索新技术
+
+<strong>Check out my work below!</strong>
+<br><br>
+<a href="https://github.com/Htring">
+  <img src="https://badges.pufler.dev/visits/Htring/Htring?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/Htring">
+  <img src="https://badges.pufler.dev/years/Htring?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/Htring?tab=repositories">
+  <img src="https://badges.pufler.dev/repos/Htring?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/Htring">
+  <img src="https://badges.pufler.dev/commits/monthly/Htring?style=flat-square&color=black&logo=github">
+</a>
+<br><br>
+![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&theme=tokyonight)
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&hide_border=true">
+-->
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Htring) -->
 
-![Metrics](https://metrics.lecoq.io/Htring?template=classic&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/Htring?template=classic&config.timezone=Asia%2FShanghai) -->
