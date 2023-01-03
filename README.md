@@ -23,20 +23,7 @@ Here are some ideas to get you started:
 
 <strong>Check out my work below!</strong>
 <br><br>
-<a href="https://github.com/Htring">
-  <img src="https://badges.pufler.dev/visits/Htring/Htring?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/Htring">
-  <img src="https://badges.pufler.dev/years/Htring?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/Htring?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/Htring?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/Htring">
-  <img src="https://badges.pufler.dev/commits/monthly/Htring?style=flat-square&color=black&logo=github">
-</a>
-<br><br>
-![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&theme=tokyonight)
+![Htring's GitHub stats](https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&theme=tokyonight)
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&hide_border=true">
 -->
