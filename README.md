@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 你好，我是科皮子菊😄
 
-- 🌱 CSDN博客地址：<a href="https://piqiandong.blog.csdn.net//">AIAS编程有道</a>
+- 🌱 CSDN(访问量100w+，粉丝1.7w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">AIAS编程有道</a>
 - 👯 微信公众号：AIAS编程有道
 - 📫 知乎：[皮乾东](https://www.zhihu.com/people/piqiandong)
 - 🔭 Bilibili： [科皮子菊](https://space.bilibili.com/165345450)
