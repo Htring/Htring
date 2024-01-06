@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### 你好，我是科皮子菊😄
 
-- 🌱 CSDN(访问量100w+，粉丝1.7w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">AIAS编程有道</a>
-- 👯 微信公众号：AIAS编程有道
+- 🌱 CSDN(访问量100w+，粉丝1.7w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">皮皮-科皮子菊</a>
+- 👯 微信公众号：皮皮AI记
 - 📫 知乎：[皮乾东](https://www.zhihu.com/people/piqiandong)
-- 🔭 Bilibili： [科皮子菊](https://space.bilibili.com/165345450)
-- 🤔 目前从事于自然语言处理相关工作，探索知识图谱，搜索，排序，相关相关技术，喜欢编程，探索新技术
+- 🔭 Bilibili： [皮皮AI记](https://space.bilibili.com/165345450)
+- 🤔 目前从事于自然语言处理相关工作，探索信心抽取，文本智能，问答系统，LLM等领域研究与开。喜欢编程，探索新技术
 
 <strong>Check out my work below!</strong>
 <br><br>
