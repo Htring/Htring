@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 你好，我是科皮子菊😄
 
-- 🌱 CSDN(访问量110w+，粉丝1.8w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">皮皮-科皮子菊</a>
+- 🌱 CSDN(访问量130w+，粉丝1.9w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">皮皮AI记</a>
 - 👯 微信公众号：皮皮AI记
 - 📫 知乎：[皮皮](https://www.zhihu.com/people/piqiandong)
 - 🔭 Bilibili： [皮皮AI记](https://space.bilibili.com/165345450)
