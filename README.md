@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 你好，我是科皮子菊😄
+### 你好，我是皮皮😄
 
 - 🌱 CSDN(访问量130w+，粉丝1.9w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">皮皮AI记</a>
-- 👯 微信公众号：皮皮AI记
+- 👯 微信公众号：[皮皮AI记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MTk1NjAxMQ==&action=getalbum&album_id=3468081936080273410&scene=126&sessionid=#wechat_redirect)、[自然语言处理爱好者](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2ODA5NzgwNA==&action=getalbum&album_id=4518803545680478210#wechat_redirect)
 - 📫 知乎：[皮皮](https://www.zhihu.com/people/piqiandong)
 - 🔭 Bilibili： [皮皮AI记](https://space.bilibili.com/165345450)
 - 🤔 目前从事于自然语言处理相关研究与工作，如：信心抽取，文本智能，问答系统，LLM等领域，喜欢编程，探索新技术
