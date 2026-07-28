@@ -15,19 +15,7 @@ Here are some ideas to get you started:
 
 ### 你好，我是皮皮😄
 
-- 🌱 CSDN(访问量130w+，粉丝1.9w+)博客地址：<a href="https://piqiandong.blog.csdn.net//">皮皮AI记</a>
+- AI算法工程师
 - 👯 微信公众号：[皮皮AI记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MTk1NjAxMQ==&action=getalbum&album_id=3468081936080273410&scene=126&sessionid=#wechat_redirect)、[自然语言处理爱好者](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2ODA5NzgwNA==&action=getalbum&album_id=4518803545680478210#wechat_redirect)
 - 📫 知乎：[皮皮](https://www.zhihu.com/people/piqiandong)
-- 🔭 Bilibili： [皮皮AI记](https://space.bilibili.com/165345450)
-- 🤔 目前从事于自然语言处理相关研究与工作，如：信心抽取，文本智能，问答系统，LLM等领域，喜欢编程，探索新技术
-
-<strong>Check out my work below!</strong>
-<br><br>
-![Htring's GitHub stats](https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&theme=tokyonight)
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=Htring&show_icons=true&hide_border=true">
--->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Htring) -->
-
-<!-- ![Metrics](https://metrics.lecoq.io/Htring?template=classic&config.timezone=Asia%2FShanghai) -->
+- 🤔 目前从事于LLM、VLLM相关研究与落地工作。
